@@ -1,0 +1,3 @@
+Account_type,owner,account_no,balance,interest_rate,loan_limit,fees
+Saving,Ali,S-123,1300.0,2.0,,
+Current,Sara,F-321,150.0,,1000.0,50.0
